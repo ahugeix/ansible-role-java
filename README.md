@@ -61,6 +61,9 @@ are shown below):
 # that release.
 java_version: 'jdk-11.0.5+10'
 
+# Java packege: jdk or jre
+java_package: 'jdk'
+
 # Base installation directory for any Java distribution
 java_install_dir: '/opt/java'
 
